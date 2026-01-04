@@ -1,5 +1,5 @@
 # Learn with Ease : Dyslexia-Friendly Reading Tool
-
+[Live Link](https://equit-io.vercel.app/)
 <br>
 
 ## Inspiration
@@ -58,3 +58,4 @@ Besides sharpening our skills in frontend development, the two of us learned:
 
 - Equit.IO could be transformed into a **browser extension**, making the tool increasingly more **accessible**- acting as a plugin in which students could instantly refine and summarize any text (assignments, articles, etc).
 - Although our immediate audience includes **any student** K-12 and beyond, Equit.IO could be offered as a **subscription model** for parents, tutors, and accessibility-focused organizations, increasing our market potential **tremendously**.
+
