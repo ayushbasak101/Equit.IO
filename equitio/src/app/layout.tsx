@@ -6,7 +6,7 @@ import { Analytics } from "@vercel/analytics/react";
 import { Sidebar } from "lucide-react";
 import { SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar";
 import { AppSidebar } from "@/components/app-sidebar";
-import { useState } from "react";
+
 
 const dyslexiaFont = localFont({
   src: [
