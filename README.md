@@ -30,12 +30,12 @@ Equit.IO is an web app that converts regular text into a dyslexia-friendly forma
 ## How we built it
 
 - **Frontend**: Built with Next.js, Tailwind CSS, and shadcn/ui for a responsive and accessible user interface.
-- **Backend**: PDF parsing & refining. AI functionality powered by **OpenAI API model GPT 3.5-Turbo**
+- **Backend**: PDF parsing & refining. AI functionality powered by **gemini-1.5-flash**
 - **Design**: Clean & Simple UI for users with dyslexia.
 
 ## Challenges we ran into
 
-- Fine-tuning the **GPT 3.5-Turbo** model was difficult at first. Although quite cost effective, when **untrained** the model proves to be **extremely generic** and sometimes difficult to understand
+- Fine-tuning the **gemini-1.5-flash** model was difficult at first. Although quite cost effective, when **untrained** the model proves to be **extremely generic** and sometimes difficult to understand
 - Implementing the core functionality of our software, **file-uploading** and **text extraction**. Storing the data of processed documents, and passing raw text to the OpenAI API.
 
 ## Accomplishments that we're proud of
@@ -58,4 +58,5 @@ Besides sharpening our skills in frontend development, the two of us learned:
 
 - Equit.IO could be transformed into a **browser extension**, making the tool increasingly more **accessible**- acting as a plugin in which students could instantly refine and summarize any text (assignments, articles, etc).
 - Although our immediate audience includes **any student** K-12 and beyond, Equit.IO could be offered as a **subscription model** for parents, tutors, and accessibility-focused organizations, increasing our market potential **tremendously**.
+
 
