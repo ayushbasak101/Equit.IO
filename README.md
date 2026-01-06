@@ -14,7 +14,7 @@ Equit.IO is an web app that converts regular text into a dyslexia-friendly forma
 
 ## Key Features
 
-- **Dyslexia-Friendly Design** : Follows the [British Dyslexia Association's style guide](https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide) for better readability.
+- **Dyslexia-Friendly Design** : Follows the [British Dyslexia Association's style guide](https://www.bdadyslexia.org.uk/advice/educators/is-my-student-dyslexic) for better readability.
 - **Enhanced Readability**: Convert text in a PDF to a well-supported Dyslexia accessible and legible font.
 - **Reading Level Adjustment**: Seamlessly change the reading level of the processed text.
 - **Concise Summarization**: Quickly read a summary of the processed document.
@@ -58,5 +58,6 @@ Besides sharpening our skills in frontend development, the two of us learned:
 
 - Equit.IO could be transformed into a **browser extension**, making the tool increasingly more **accessible**- acting as a plugin in which students could instantly refine and summarize any text (assignments, articles, etc).
 - Although our immediate audience includes **any student** K-12 and beyond, Equit.IO could be offered as a **subscription model** for parents, tutors, and accessibility-focused organizations, increasing our market potential **tremendously**.
+
 
 
